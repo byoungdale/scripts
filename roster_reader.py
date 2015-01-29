@@ -9,9 +9,7 @@ My solution:
     I wrote this script to iterate through the CSV file and everytime the
     Course Title changed in the spreadsheet, write that data to a new
     spreadsheet with it's title set to the Course Title in the large file's
-    column. After asking for help on Stackoverflow:
-    
-    https://stackoverflow.com/questions/28181647/how-do-i-make-the-filename-of-the-output-csv-file-equal-to-the-the-content-of-a/28182236#28182236
+    column.
 
     I was able to write up this script that accomplished the task. Saving me
     tons of time. Maybe it someone else has a huge file they need separated,
